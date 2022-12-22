@@ -4,7 +4,8 @@
 
 
 # Declaration
-```We here by declare that the project report entitled “Fight Detection in Public
+```
+We here by declare that the project report entitled “Fight Detection in Public
 Places” submitted by us to University Institute of Engineering and
 Technology, Panjab University, Chandigarh in partial fulfillment of the
 requirement for the award of the degree of B.E. in INFORMATION
@@ -15,4 +16,5 @@ or in full, for the award of any other degree or diploma in this institute or an
 other institute or university.
 Date: 7 December 2022
 Ekaant Garg UE198039
-Hitesh Chawla UE198046```
+Hitesh Chawla UE198046
+```
