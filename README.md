@@ -10,10 +10,10 @@
 
 ## Installation
 
-Step 1: Open the official Python website in your web browser. Navigate to the Downloads tab for Windows.
-Step 2: Choose the latest Python 3 release. In our example, we choose the latest Python 3.7.3 version.
-Step 3: Download the dataset from https://drive.google.com/drive/folders/1BXUmI8AgRXNSVaFKvpkQP7sQbaHWuwHT and copy in /data folder.
-Step 4: Load model using
+Step 1: Open the official Python website in your web browser. Navigate to the Downloads tab for Windows.<br>
+Step 2: Choose the latest Python 3 release. In our example, we choose the latest Python 3.7.3 version.<br>
+Step 3: Download the dataset from https://drive.google.com/drive/folders/1BXUmI8AgRXNSVaFKvpkQP7sQbaHWuwHT and copy in /data folder.<br>
+Step 4: Load model using<br>
 ```Python
     #Mobnet_LSTM_model = tf.keras.models.load_model(folderlocation+'Mobnet_LSTM_model')
     #Mobnet_LSTM_model_history = np.load(folderlocation+'Mobnet_LSTM_model_history.npy',allow_pickle='TRUE').item()
