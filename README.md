@@ -1,5 +1,7 @@
 # Fight Detection in Public Places using AI
 
+![Poster](https://user-images.githubusercontent.com/65300791/212535037-e50fe7bc-5a65-454a-9704-da9658ddc436.png)
+
 ## Technology stack used
 ● Python
 ● Machine Learning
